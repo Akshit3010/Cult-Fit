@@ -5,7 +5,7 @@ _A fitness movement that is worth breaking a sweat for_
 
 <h3> Deployment link </h3>
 
-<a href="https://charming-kleicha-f7531f.netlify.app/" target="_blank">https://charming-kleicha-f7531f.netlify.app/
+<a href="https://cultfit-demo.netlify.app/" target="_blank">https://cultfit-demo.netlify.app/
 
 <h3> About </h3>
 
